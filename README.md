@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Programming Fundamentals with Python in Software University https://softuni.bg.
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
 - 💬 Ask me about anything! I am happy to help! 
-- 📫 How to reach me: https://www.facebook.com/profile.php?id=100004523792859, aemilov01@gmail.com
+- 📫 How to reach me: https://www.facebook.com/profile.php?id=100004523792859, a.e.kostadinov@gmail.com
 - ⚡ Fun fact: i love coding and searching optimal solutions for different issues
 
 
