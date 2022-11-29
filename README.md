@@ -17,4 +17,3 @@ I am a highly motivated person, a structural engineer by profession.In the last 
 - Mountain hiking
 - Reading and learning
 
-![24810885_0 jpg](https://user-images.githubusercontent.com/106312544/192052407-d97b469f-83ef-4556-853d-ebd7dbadac9c.png)
