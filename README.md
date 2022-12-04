@@ -24,7 +24,3 @@ I am a highly motivated person, a structural engineer by profession.In the last 
   <img height="150" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aekostadinov&layout=compact&langs_count=12&theme=aura&text_color=00FFFB" />
 
 
-
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100080198403604](https://www.facebook.com/profile.php?id=100004523792859))
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]([https://www.instagram.com/call.me.mitko/](https://www.instagram.com/aleksandarkostadinov/))
-[![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/dimitar-dimitrov-274807254/](https://www.linkedin.com/in/aleksandar-kostadinov-0bb016162/))
