@@ -17,3 +17,8 @@ I am a highly motivated person, a structural engineer by profession.In the last 
 - Mountain hiking
 - Reading and learning
 
+<br><br><br>
+  <img height="150" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aekostadinov&layout=compact&langs_count=12&theme=aura&text_color=00FFFB" />
+
+
+
