@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Programming Fundamentals with Python in Software University https://softuni.bg.
+- 🌱 I’m currently learning Programming Advance with Python in Software University https://softuni.bg.
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
 - 💬 Ask me about anything! I am happy to help! 
 - 📫 How to reach me: 
