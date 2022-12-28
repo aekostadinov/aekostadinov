@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aekostadinov)
 ### Hi there 👋 I am Aleksandar Kostadinov - https://akostadinov.herokuapp.com
 
 
@@ -7,7 +8,6 @@
 - 💬 Ask me about anything! I am happy to help! 
 - 📫 How to reach me: 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004523792859)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aleksandarkostadinov/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-kostadinov-0bb016162/)
 - ⚡ Fun fact: i love coding and searching optimal solutions for different issues
 
