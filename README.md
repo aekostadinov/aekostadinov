@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aekostadinov)
 ### Hi there 👋 I am Aleksandar Kostadinov
 
 
